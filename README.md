@@ -8,5 +8,5 @@ The technologies and libraries are used:
   <li>HTML,CSS, Javascripte</li>
   <li>MySQL</li>
   <li>laravel 10</li>
-  <li>CKEditor for product descriptions</li>
+  <li>CKEditor for product descript</li>
 </ol>
